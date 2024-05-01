@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I go by the name Caito (❁´◡`❁);Second+line+of+text)](https://git.io/typing-svg)
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10760C&random=false&width=435&lines=Hello%2C+I+go+by+the+name+Caito+%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81)" alt="Typing SVG" /></a>
 
 ### About me
 
