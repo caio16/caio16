@@ -9,6 +9,6 @@ My name is Caio Peixoto, I'm 21 years old, and I'm taking a Bachelor's degree in
 ### <p align="center">Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,py,vscode,notion,css,html,discord" />
+    <img src="https://skillicons.dev/icons?i=pycharm,py,vscode,notion,css,html,discord, r" />
   </a>
 </p>
