@@ -3,7 +3,7 @@
 
 ### <p align="center">About me
 
-My name is Caio Peixoto, I'm 21 years old, and I'm taking a Bachelor's degree in Computer Science at the Federal University of ABC, São Paulo.
+My name is Caio Peixoto, I'm 22 years old, and I'm taking a Bachelor's degree in Science and Technology, and Computer Science at the Federal University of ABC, São Paulo.
 I'm passionated about bioinformatics and how to merge the biological world with the tech environment.
 
 
