@@ -24,9 +24,6 @@
 
 <div align="center">
 
-  <a href="mailto:caio.esthevao16@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/caio-peixoto-039183208" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
