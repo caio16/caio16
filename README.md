@@ -39,7 +39,7 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,py,r,mysql,git,github,azure,vscode,aws,c,html,css,discord,notion,latex,linux,ubuntu,markdown,obsidian,powershell,pycharm,stackoverflow&theme=dark" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=java,js,py,r,mysql,git,github,azure,vscode,aws,c,html,css,discord,notion,latex,linux,ubuntu,markdown,obsidian,powershell,pycharm,stackoverflow,blender&theme=dark" alt="My Skills" />
     </a>
   </p>
 
