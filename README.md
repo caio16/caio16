@@ -39,7 +39,7 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,py,r,mysql,git,github,azure,vscode,aws,c,html,css,discord,notion,latex,linux,ubuntu,markdown,obsidian,powershell,pycharm,stackoverflow,blender&theme=dark" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=java,js,py,r,mysql,git,github,azure,vscode,aws,c,html,css,discord,notion,latex,linux,ubuntu,markdown,obsidian,powershell,pycharm,stackoverflow,blender,gitlab&theme=dark" alt="My Skills" />
     </a>
   </p>
 
@@ -47,7 +47,3 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caio16&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio16&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
